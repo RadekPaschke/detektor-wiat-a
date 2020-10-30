@@ -1,1 +1,1 @@
-# detektor-wiat-a
+# detektor swiatla
