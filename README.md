@@ -1,0 +1,1 @@
+# detektor-wiat-a
